@@ -1,0 +1,16 @@
+﻿popName,pop,time,n,nDead,nGeno,nDeadSS,nDeadRS,nDeadRR
+Tintinara R2,1,1,101,94,33,20,13,0
+Tintinara R2,1,3,101,99,38,22,16,0
+Tintinara R2,1,8,101,100,39,23,16,0
+Tintinara S2,2,1,77,77,16,16,0,0
+Wilalooka-R1,3,1,104,89,26,25,0,1
+Wilalooka-R1,3,3,104,91,28,26,0,2
+Wilalooka-R1,3,8,104,96,32,26,0,6
+Wilalooka-R2,4,1,106,100,35,24,11,0
+Wilalooka-R2,4,3,106,103,38,27,11,0
+Wilalooka-R2,4,8,106,104,39,27,11,1
+Rokewood,5,1,102,101,23,23,0,0
+Rokewood,5,3,102,102,24,24,0,0
+Keith,6,1,78,78,15,15,0,0
+Kellalac,7,1,78,78,13,13,0,0
+Toolondo,8,1,76,76,12,12,0,0
